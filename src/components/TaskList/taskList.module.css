@@ -1,0 +1,19 @@
+.title{
+    margin-bottom: 20px;
+    color:aliceblue;
+
+}
+
+.container{
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    color:aliceblue;
+}
+.emptyState{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    color: aliceblue;
+}
