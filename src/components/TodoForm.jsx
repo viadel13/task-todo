@@ -39,7 +39,7 @@ export default function TodoForm({ onAddTodo }) {
           type="submit"
           variant="contained"
           startIcon={<AddIcon />}
-          sx={{ px: 3, whiteSpace: "nowrap" }}
+          sx={{ px: 3, whiteSpace: "nowrap", backgroundColor: "#15156d" }}
         >
           Add
         </Button>

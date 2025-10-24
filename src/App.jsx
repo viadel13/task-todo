@@ -84,7 +84,7 @@ function App() {
           display: "flex",
           flexDirection: "column",
           minHeight: "100vh",
-          bgcolor: "grey.100",
+          bgcolor: "#f8f7ff",
         }}
       >
         <Navbar
@@ -97,7 +97,7 @@ function App() {
             {/* Header Section */}
             <Box
               sx={{
-                background: "linear-gradient(135deg, #1976d2 0%, #9c27b0 100%)",
+                background: "linear-gradient(135deg, #15156d 0%, #9c27b0 100%)",
                 color: "white",
                 p: 4,
               }}

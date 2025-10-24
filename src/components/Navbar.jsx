@@ -6,7 +6,7 @@ export default function Navbar({ activeTodosCount, completedTodosCount }) {
     <AppBar
       position="static"
       sx={{
-        background: "linear-gradient(90deg, #1976d2 0%, #42a5f5 100%)",
+        background: "#15156d",
         p: 2,
       }}
     >
