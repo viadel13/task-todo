@@ -30,7 +30,7 @@ export default function Navbar({ activeTodosCount, completedTodosCount }) {
             component="div"
             sx={{ flexGrow: 1, fontWeight: "bold" }}
           >
-            TaskMaster Dev
+            TaskDev
           </Typography>
         </Box>
         <Box sx={{ display: "flex", gap: 2 }}>

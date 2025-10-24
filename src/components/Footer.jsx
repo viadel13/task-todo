@@ -24,7 +24,7 @@ export default function Footer() {
             color="text.secondary"
             textAlign={"center"}
           >
-            © 2025 TaskMaster Dev. All rights reserved.
+            © 2025 TaskDev. All rights reserved.
           </Typography>
         </Box>
       </>
